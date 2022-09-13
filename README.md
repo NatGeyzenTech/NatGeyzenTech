@@ -1,26 +1,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/NatGeyzenTech/NatGeyzenTech/main/header-image.png" align="center" style="width: 100%" />
 </div>  
-  
-
-
-
-###    
-<div align="center">
-<a href="https://twitter.com/https://twitter.com/Nat_A_Number" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/https://dev.to/nats_tech_notes" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nathalie-geyzen-73a447184" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-
-
+ 
 ###    
 Former special ed teacher who taught teenagers with autism, current full-stack developer with a focus on front-end development, in the process of combining my experiences from teaching, my web dev skills, and my passion for inclusion to become a certified Web Accessibility Specialist.  
   
